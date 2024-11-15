@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404965546301",
+    "project_id": "flash-chat-45c17",
+    "storage_bucket": "flash-chat-45c17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404965546301:android:a77e729fec914cc01e0d54",
+        "android_client_info": {
+          "package_name": "com.chinmayvaity.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyjpeBAyNyf3OD8Vd7NRI895omKkN2CF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
